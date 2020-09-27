@@ -1,0 +1,20 @@
+development:
+  adapter: oracle_enhanced
+  database: test_service
+  username: anarnava
+  password: "Anoo1278"
+  # host: test_service
+  # port: 1521
+test:
+  adapter: oracle_enhanced
+  database: test_service
+  username: anarnava
+  password: "Anoo1278"
+  
+  
+production:
+  adapter: oracle_enhanced
+  database: test_service
+  username: anarnava
+  password: "Anoo1278"
+   
